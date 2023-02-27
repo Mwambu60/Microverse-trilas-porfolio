@@ -13,7 +13,7 @@
     /* top: 0; */
     /* left: 0; */
     width: 376px;
-    background: #be3144;
+    background: #68343b;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
     height: 60px;   
@@ -23,7 +23,7 @@
     display: flex;
     margin-right: 2rem;
     gap: 2rem;
-    color: #fff;
+    color: #c69c9c;
     padding-top: 1.2rem;
 }
 
@@ -52,7 +52,7 @@ h1  {
 
 .p {
     margin: 0 auto;
-    color: #be3144;
+    color: #a32e3e;
 }
 
 .main {
