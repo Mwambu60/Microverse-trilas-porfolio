@@ -5,7 +5,20 @@
     list-style: none;
     font-family: "poppinf", sans-serif;
 }
-
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+a:hover{
+    padding: 10px;
+    background-color: white;
+    transition: 1500ms;
+    color: #000;
+}
+a:visited:hover{
+    color: #000;
+}
 .nav {
     display: flex;
     justify-content: flex-end;
